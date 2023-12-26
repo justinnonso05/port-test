@@ -169,7 +169,7 @@ div.intro::before {
 }
 div.intro {
     position: relative;
-    background-image: url(intro2.gif);
+    background-image: url("intro2.gif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
